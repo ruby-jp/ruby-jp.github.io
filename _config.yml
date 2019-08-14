@@ -10,6 +10,6 @@ exclude:
 - README.md
 - vendor/
 
-theme: minima
+theme: jekyll-theme-cayman
 
 github_username: ruby-jp
