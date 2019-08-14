@@ -1,0 +1,15 @@
+title: ruby-jp
+
+lang: ja
+timezone: Asia/Tokyo
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- vendor/
+
+theme: minima
+
+github_username: ruby-jp

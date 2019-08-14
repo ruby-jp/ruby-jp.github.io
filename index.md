@@ -1,1 +1,1 @@
-# ruby-jp
+Welcome to ruby-jp!
