@@ -6,8 +6,6 @@ ruby-jpは**Rubyプログラマーの交流のためのコミュニティ**で�
 
 ---
 
-Slackへの参加は[こちら](https://join.slack.com/t/ruby-jp/shared_invite/enQtNzE1NDg1ODE2MDM2LTE1NTc2Y2M0ZThlNzdmOWEyZjYwZjdhZDAwNjNhMGE0NDJiODcwMTNkZWRjOTgyMzNkZjEyMmQ1ZWYyNzkzYzk)からご自由にどうぞ！
-
 ## 🔰初心者の方へ
 
 - `#general` - 入門者〜上級者が喋るチャンネルです
