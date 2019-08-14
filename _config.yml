@@ -1,4 +1,5 @@
 title: ruby-jp
+description: ruby-jp.slack.com
 
 lang: ja
 timezone: Asia/Tokyo
@@ -13,3 +14,5 @@ exclude:
 theme: jekyll-theme-cayman
 
 github_username: ruby-jp
+
+slack_invite_link: https://join.slack.com/t/ruby-jp/shared_invite/enQtNzE1NDg1ODE2MDM2LTE1NTc2Y2M0ZThlNzdmOWEyZjYwZjdhZDAwNjNhMGE0NDJiODcwMTNkZWRjOTgyMzNkZjEyMmQ1ZWYyNzkzYzk
