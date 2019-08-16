@@ -1,6 +1,8 @@
 ---
-#layout: default
+layout: default
+image: /assets/ogp.png
 ---
+
 **ruby-jp は Ruby プログラマー同士の交流を目的とした Slack ワークスペース**です。
 
 参加者の技術レベルに関わらず、質問・相談・情報交換を気軽にできる場を目指しています。
