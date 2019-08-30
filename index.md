@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 image: /assets/ogp.png
 ---
 
@@ -49,3 +49,8 @@ ruby-jp は**世代や企業の垣根を超えて、技術者同士が交流で�
 
 - `#general` チャンネルで**自己紹介**をしましょう
 - **プロフィール画像**を設定しましょう。覚えてもらいやすいので便利です
+
+## 😎 Logo
+{: #logo }
+
+- [ruby-jp のロゴは CC0 でご利用いただけます](/logo.html)

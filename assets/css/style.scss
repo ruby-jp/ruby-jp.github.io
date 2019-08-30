@@ -8,5 +8,42 @@ body {
 }
 
 .page-header {
-  background-image: linear-gradient(120deg, #f26a6a, #A61401)
+  background-color: #E2203C;
+  background-image: linear-gradient(120deg, #ce2640, #e2203c, #f13955);
+}
+
+.single-page-header {
+  @extend .page-header;
+  padding: 0.5rem;
+
+  text-align: left;
+
+  .single-page-logo {
+    @include large {
+      max-width: 64rem;
+      padding: 0 6rem;
+      margin: 0 auto;
+    }
+    @include medium { padding: 0 4rem; }
+    @include small { padding: 0 1rem; }
+
+    img {
+      @include large { width: 4rem; }
+      @include medium { width: 3rem; }
+      @include small { width: 2.3rem; }
+    }
+  }
+}
+
+.main-content .btn {
+  color: rgba(206, 38, 64, 0.7);
+  background-color: rgba(206, 38, 64, 0.08);
+  border-color: rgba(206, 38, 64, 0.2);
+
+  &:hover {
+    color: rgba(206, 38, 64, 0.8);
+    text-decoration: none;
+    background-color: rgba(206, 38, 64, 0.2);
+    border-color: rgba(206, 38, 64, 0.3);
+  }
 }

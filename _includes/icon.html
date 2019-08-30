@@ -1,0 +1,9 @@
+<link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
+{% assign apple-touch-icon-size-list = "57, 72, 76, 114, 120, 152, 167, 180"  | split: ", " %}
+{% for size in apple-touch-icon-size-list %}
+  {% assign url = "/assets/apple-touch-icons/apple-touch-icon-__size__px.png?v=" | replace: "__size__", size %}
+  <link rel="apple-touch-icon" sizes="{{size}}x{{size}}" href="{{ url | append: site.github.build_revision | relative_url }}">
+{% endfor %}
+<link rel="mask-icon" href="{{ '/assets/icon.svg?v=' | append: site.github.build_revision | relative_url }}" color="#E2203C">
+<link rel="icon" sizes="192x192" href="{{ '/assets/icon-hd.png?v=' | append: site.github.build_revision | relative_url }}">
+<link rel="icon" sizes="128x128" href="{{ '/assets/icon.png?v=' | append: site.github.build_revision | relative_url }}">
