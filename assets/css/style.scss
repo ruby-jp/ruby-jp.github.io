@@ -10,6 +10,12 @@ body {
 .page-header {
   background-color: #E2203C;
   background-image: linear-gradient(120deg, #ce2640, #e2203c, #f13955);
+
+  .page-header-logo {
+    @include large { width: 12rem; }
+    @include medium { width: 10rem; }
+    @include small { width: 8rem; }
+  }
 }
 
 .single-page-header {

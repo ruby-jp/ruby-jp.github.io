@@ -3,7 +3,7 @@
 {% include head.html %}
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name"><a href="/"><img src="{{ '/assets/mark-white.svg?v=' | append: site.github.build_revision | relative_url }}" width="256" height="256" alt="{{ page.title | default: site.title | default: site.github.repository_name }}"></a></h1>
+      <h1 class="project-name"><a href="/"><img class="page-header-logo" src="{{ '/assets/ruby-jp-white-big.svg?v=' | append: site.github.build_revision | relative_url }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}"></a></h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ site.slack_invite_link }}" class="btn"><strong>ruby-jp Slack ワークスペースに参加する</strong></a>
     </header>
