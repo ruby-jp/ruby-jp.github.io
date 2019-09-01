@@ -16,11 +16,14 @@
     <meta name="theme-color" content="#b41d23">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
+
+    <link rel="icon" href="{{ '/assets/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png?v=' | append: site.github.build_revision | relative_url }}">
   </head>
+
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name"><a href="/"><img class="page-header-logo" src="{{ '/assets/ruby-jp-white-big.svg?v=' | append: site.github.build_revision | relative_url }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}"></a></h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ site.slack_invite_link }}" class="btn"><strong>ruby-jp Slack ワークスペースに参加する</strong></a>
     </header>
