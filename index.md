@@ -1,6 +1,7 @@
 ---
 layout: default
 image: /assets/ogp.png
+title: ruby-jp.slack.com
 ---
 
 **ruby-jp は Ruby プログラマー同士の交流を目的とした Slack ワークスペース**です。
