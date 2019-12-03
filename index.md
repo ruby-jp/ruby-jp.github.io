@@ -4,7 +4,7 @@ image: /assets/ogp.png
 title: ruby-jp.slack.com
 ---
 
-**ruby-jp は Ruby プログラマー同士の交流を目的とした Slack ワークスペース**です。
+**ruby-jp は Rubyist 同士の交流を目的とした Slack ワークスペース**です。
 
 参加者の技術レベルに関わらず、質問・相談・情報交換を気軽にできる場を目指しています。
 
