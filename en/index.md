@@ -29,28 +29,31 @@ ruby-jp is committed to providing a space where Ruby programmers, including lear
 - ソフトウェアの作者を含む \"他者へのリスペクトに欠けるような発言\" は控えましょう
 - 著しく問題がある行動が確認できた場合は、利用を停止することもありますのでご了承ください
 
-## 💎 ruby-jpの使い方 (To Be Translated)
+
+## 💎 ruby-jp usage
 {: #usage }
 
-- ruby-jp は参加者の技術レベルに関わらず、質問・相談・情報交換ができる場です
-- 過去ログをすべて読んで、場の空気を読む必要はありません
-- チャンネルの作成も絵文字の追加も、誰でも自由に行ってください。許可は不要です
-- 絵文字は著作権的に不適切なもの、他者を不快にさせるものは削除することがあります
-- 一定期間利用されていないチャンネルは、予告なくアーカイブすることがあります。もしも戻したい場合はいつでも戻してください
-- 過去ログは時間経過によって閲覧できなくなります
-- 情報量が多いので、ご自身の好きなチャンネルを購読しマイペースで楽しんでください
-- 趣味でプログラミングを楽しんでいる方や、異業種で Ruby を勉強したい方も大歓迎です
+- ruby-jp is a place where questions, discussions, and information exchanges can be held, regardless of participants' technical levels.
+- No need to read all past logs to post new topices.
+- Feel free to create channels and add emojis. No permission is required.
+- Emojis that are inappropriate in terms of copyright or likely to offend others may be removed.
+- Channels that have not been used for a certain period may be archived without notice. If you'd like them back, feel free to do so.
+- Past logs will become unviewable after a few months from posted.
+- Given the amount of information, please subscribe to channels of your interest and enjoy at your own pace.
+- Those who enjoy programming as a hobby or who want to study Ruby in different industries are also very welcome.
 
-## 🔰 Ruby入門者・学生の方へ (To Be Translated)
+
+## 🔰 For beginners
 {: #beginner }
 
-- いろいろなチャンネルがありますが `#newbie` という初学者用のチャンネル、 `#students` という学生向けのチャンネルがおすすめです
-- Ruby on Railsやデータベースの質問も大歓迎です
-- オンラインのプログラミング学習コースや参考書で遭遇した不明点や学習方法など、何でも気軽に聞いてください
-- どのチャンネルに質問して良いか分からなければ、まず `#newbie` や `#support` で質問してみると良いでしょう。多くの人が見ていますし、より適切なチャンネルがあれば誰かがリンクを貼ってくれます
+- We have various channels, but we recommend `#newbie` for beginners and `#students` for student-oriented discussions.
+- Questions about Ruby on Rails and databases are also very welcome.
+- If you encounter any points of confusion in online programming courses or textbooks, or have questions about how to learn, feel free to ask anything.
+- If you're not sure which channel to ask your question in, start with `#newbie` or `#support` channels. Many people are watching, and if there's a more suitable channel, someone will provide a link.
 
-## 🙌 自己紹介をしましょう (To Be Translated)
+
+## 🙌 Self-introduction
 {: #self-introduction }
 
-- `#general` チャンネルで**自己紹介**をしましょう
-- **プロフィール画像**を設定しましょう。覚えてもらいやすいので便利です
+- **Let's introduce yourself** in the `#general` channel after joining!
+- **Set a profile picture.** It makes it easier for others to remember you.
