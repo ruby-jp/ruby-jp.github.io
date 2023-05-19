@@ -24,13 +24,13 @@
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name"><a href="/"><img class="page-header-logo" src="{{ '/assets/ruby-jp-white-big.svg?v=' | append: site.github.build_revision | relative_url }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}"></a></h1>
-			<h2 class="project-tagline">{{ page.title }}</h2>
+      <h2 class="project-tagline">{{ page.title }}</h2>
       <a href="{{ site.slack_invite_link }}" class="btn"><strong>ruby-jp Slack ワークスペースに参加する</strong></a>
     </header>
     <main id="content" class="main-content" role="main">
       {{ content }}
       <footer class="site-footer">
-        <span class="site-footer-credits">ruby-jp は複数名の有志の Rubyist によって運営されています</span>
+				<span class="site-footer-credits">ruby-jp は複数名の有志の Rubyist によって運営されています<br>This website is Licensed Under a <a href="https://creativecommons.org/licenses/by/4.0/deed.ja">Creative Commons Attribution 4.0 International License</a>.</span>
       </footer>
     </main>
   </body>
