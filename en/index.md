@@ -2,6 +2,7 @@
 layout: default
 image: /assets/ogp.png
 title: ruby-jp.slack.com
+description: ruby-jp is a Slack workspace created with the intention of fostering interactions between Ruby programmers. Regardless of technical proficiency, we aim to provide a space where questions, consultations, and information exchange can be carried out with ease.
 lang: en
 ---
 
