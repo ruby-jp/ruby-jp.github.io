@@ -12,6 +12,10 @@
     {% endif %}
     <meta charset="UTF-8">
 {% seo %}
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    <meta property="og:description" content="{{ page.description }}">
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#b41d23">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
