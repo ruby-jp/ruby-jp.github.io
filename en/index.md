@@ -21,15 +21,16 @@ ruby-jp is committed to providing a space where Ruby programmers, including lear
 
 ---
 
-## 🌱 行動規範 (To Be Translated)
+## 🌱 Code of Conduct
 {: #code-of-conduct }
 
-- 上級者は、入門者や学習者にやさしく接するようにしてください
-- 議論が白熱しても、相手を罵ったり傷つけることがないようにしてください
-- 性別/性的指向/障碍の有無/人種/宗教に関わりなく、誰もが気持ちよく交流できるようにしましょう
-- ソフトウェアの作者を含む \"他者へのリスペクトに欠けるような発言\" は控えましょう
-- 著しく問題がある行動が確認できた場合は、利用を停止することもありますのでご了承ください
+- If you have experience in coding, please be kind and patient with beginners and learners.
+- Even if the discussion becomes heated, avoid insulting or hurting others.
+- Let's create an environment where everyone can interact comfortably, regardless of gender, sexual orientation, disabilities, race, or religion.
+- Avoid making comments that show disregard for others, including software developers.
+- Please note that if any of the above behaviors are confirmed, your account may be suspended.
 
+> NOTE: If there is any discrepancy between this translation and [the original Code of Conduct](/#code-of-conduct), the original version will be applied.
 
 ## 💎 ruby-jp usage
 {: #usage }
